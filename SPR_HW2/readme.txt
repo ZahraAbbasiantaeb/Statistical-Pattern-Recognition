@@ -1,4 +1,5 @@
 This Homework is dedicated to following subjects:
+
 - Bayes Theorem
 - Bayes Decision Rule
 - Prediction Errors in Bayes Decision Rule
